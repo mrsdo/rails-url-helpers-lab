@@ -1,0 +1,6 @@
+do /Users/mj163/Development/code/mod3/rails-url-helpers-lab/bin/bundle exec /Users/mj163/.rvm/rubies/ruby-2.6.1/bin/ruby /Users/mj163/Development/code/mod3/rails-url-helpers-lab/bin/rails routes --trace 
+Ruby enVironment Manager 1.29.11-next (master) (c) 2009-2020 Michal Papis, Piotr Kuczynski, Wayne E. Seguin
+
+  Prefix Verb URI Pattern             Controller#Action
+students GET  /students(.:format)     students#index
+         GET  /students/:id(.:format) students#show
